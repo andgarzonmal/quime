@@ -1,0 +1,18 @@
+.informacion-container {
+  display: flex;
+  align-items: center;
+}
+
+.home-title {
+  margin-left: 8px;
+  font-size: 40px;
+  font-family: "Manrope";
+  line-height: 49.44px;
+  font-weight: 600;
+}
+
+.home-title-icon {
+  font-size: 40px !important;
+  line-height: 49.44px;
+  font-weight: 600;
+}
